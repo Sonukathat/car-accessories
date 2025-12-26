@@ -3,7 +3,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { SERVICES } from '../constants';
 
-const Services: React.FC = () => {
+const Services = () => {
   return (
     <div className="pt-32 pb-24 bg-black">
       <div className="container mx-auto px-6">

@@ -1,14 +1,12 @@
 
-import { Accessory, Service, GalleryItem, Testimonial } from './types';
-
-export const ACCESSORIES: Accessory[] = [
+export const ACCESSORIES = [
   {
     id: '1',
-    name: 'Carbon Fiber Spoiler',
+    name: 'Car Wheel Cap',
     category: 'Exterior',
     price: 499,
     rating: 4.8,
-    image: 'https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&q=80&w=800',
+    image: 'https://images.jdmagicbox.com/v2/comp/def_content/ncat_id/car-wheel-cap-dl7gpn1-250.jpg',
     description: 'Ultra-lightweight genuine carbon fiber rear spoiler for improved aerodynamics and aggressive look.'
   },
   {
@@ -58,7 +56,7 @@ export const ACCESSORIES: Accessory[] = [
   }
 ];
 
-export const SERVICES: Service[] = [
+export const SERVICES = [
   {
     id: 's1',
     title: 'Professional Vinyl Wrap',
@@ -85,7 +83,7 @@ export const SERVICES: Service[] = [
   }
 ];
 
-export const GALLERY: GalleryItem[] = [
+export const GALLERY = [
   { id: 'g1', title: 'Cyberpunk GTR', category: 'Showcase', image: 'https://images.unsplash.com/photo-1580273916550-e323be2ae537?auto=format&fit=crop&q=80&w=800' },
   { id: 'g2', title: 'Widebody Porsche', category: 'Bodykit', image: 'https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&q=80&w=800' },
   { id: 'g3', title: 'Neon Night Rider', category: 'Lighting', image: 'https://images.unsplash.com/photo-1544636331-e26879cd4d9b?auto=format&fit=crop&q=80&w=800' },
@@ -94,7 +92,7 @@ export const GALLERY: GalleryItem[] = [
   { id: 'g6', title: 'Desert Drifter', category: 'Suspension', image: 'https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&q=80&w=800' },
 ];
 
-export const TESTIMONIALS: Testimonial[] = [
+export const TESTIMONIALS = [
   {
     id: 't1',
     name: 'Alex Rivera',

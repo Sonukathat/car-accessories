@@ -3,8 +3,8 @@ import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { GALLERY } from '../constants';
 
-const Gallery: React.FC = () => {
-  const [selectedImage, setSelectedImage] = useState<string | null>(null);
+const Gallery = () => {
+  const [selectedImage, setSelectedImage] = useState(null);
 
   return (
     <div className="pt-32 pb-24 bg-black min-h-screen">

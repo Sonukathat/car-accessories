@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
 import { ACCESSORIES, SERVICES, BRANDS, TESTIMONIALS } from '../constants';
 
-const Home: React.FC = () => {
+const Home = () => {
   return (
     <div className="overflow-hidden">
       {/* Hero Section */}

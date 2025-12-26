@@ -2,10 +2,9 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { ACCESSORIES } from '../constants';
-import { Accessory } from '../types';
 
-const Accessories: React.FC = () => {
-  const [selectedItem, setSelectedItem] = useState<Accessory | null>(null);
+const Accessories = () => {
+  const [selectedItem, setSelectedItem] = useState(null);
   const [activeCategory, setActiveCategory] = useState('All');
 
   const categories = ['All', 'Performance', 'Exterior', 'Interior', 'Lighting'];

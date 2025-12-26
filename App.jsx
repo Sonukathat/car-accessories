@@ -23,7 +23,7 @@ const ScrollToTop = () => {
   return null;
 };
 
-const PageWrapper: React.FC<{ children: React.ReactNode }> = ({ children }) => {
+const PageWrapper = ({ children }) => {
   return (
     <motion.div
       initial={{ opacity: 0 }}
