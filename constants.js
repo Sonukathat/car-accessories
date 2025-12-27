@@ -33,7 +33,7 @@ export const ACCESSORIES = [
     category: 'Lighting',
     price: 1599,
     rating: 4.4,
-    image: 'https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&q=80&w=800',
+    image: 'https://m.media-amazon.com/images/I/71w4Q1BIZTL._UF1000,1000_QL80_.jpg',
     description: 'High-quality tail lights for better visibility and a modern car look.'
   },
   {
@@ -42,7 +42,7 @@ export const ACCESSORIES = [
     category: 'Electronics',
     price: 3499,
     rating: 4.8,
-    image: 'https://images.unsplash.com/photo-1581092919531-2a6a3f4f6c0f?auto=format&fit=crop&q=80&w=800',
+    image: 'https://m.media-amazon.com/images/I/71DoQ1vZYKL._AC_UF1000,1000_QL80_.jpg',
     description: 'Advanced GPS navigation system with real-time location tracking.'
   },
   {
@@ -51,7 +51,7 @@ export const ACCESSORIES = [
     category: 'Engine',
     price: 399,
     rating: 4.6,
-    image: 'https://images.unsplash.com/photo-1609873962589-1f22f01f8b21?auto=format&fit=crop&q=80&w=800',
+    image: 'https://media.istockphoto.com/id/1473782182/photo/changing-of-spark-plugs-maintenance-and-repair-work-at-a-car.jpg?s=612x612&w=0&k=20&c=5BYOHA12pocWCjbI6LJbey2roEIYqKQFV1vqHjverFo=',
     description: 'High-performance spark plug for smooth engine start and better mileage.'
   }
 ];
