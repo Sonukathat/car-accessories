@@ -93,7 +93,7 @@ const Home = () => {
                 <div className="p-6">
                   <div className="flex justify-between items-center mb-2">
                     <span className="text-gray-400 text-xs uppercase tracking-widest">{item.category}</span>
-                    <span className="text-red-600 font-bold">${item.price}</span>
+                    <span className="text-red-600 font-bold">₹{item.price}</span>
                   </div>
                   <h4 className="text-xl font-bold mb-4 oswald">{item.name}</h4>
                   <button className="w-full py-3 border border-white/10 group-hover:bg-red-600 transition-colors uppercase text-xs font-bold tracking-widest rounded">
