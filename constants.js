@@ -97,7 +97,7 @@ export const TESTIMONIALS = [
     id: 't1',
     name: 'Alex Rivera',
     role: 'Sports Car Enthusiast',
-    content: 'Veloce Mods completely changed the character of my car. The carbon fiber work is flawless and the service was top-notch.',
+    content: 'SCA completely changed the character of my car. The carbon fiber work is flawless and the service was top-notch.',
     avatar: 'https://i.pravatar.cc/150?u=t1'
   },
   {

@@ -10,7 +10,7 @@ const Footer = () => {
           <div className="col-span-1 md:col-span-1">
             <Link to="/" className="text-2xl font-bold flex items-center gap-2 mb-6">
               <span className="text-red-600">⚡</span>
-              <span className="tracking-tighter oswald">VELOCE<span className="text-red-600">MODS</span></span>
+              <span className="tracking-tighter oswald">SC<span className="text-red-600">A</span></span>
             </Link>
             <p className="text-gray-400 leading-relaxed mb-6">
               The ultimate destination for premium car modifications and high-end accessories. We redefine your driving experience.
