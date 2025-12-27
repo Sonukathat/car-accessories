@@ -49,15 +49,15 @@ const Footer = () => {
             <ul className="space-y-4 text-gray-400">
               <li className="flex items-start gap-3">
                 <span className="text-red-600">📍</span>
-                <span>123 Turbo Avenue, D District, Nitro City</span>
+                <span>Fatehpur(Dharamshala), Kangra District, Himachal Pradesh</span>
               </li>
               <li className="flex items-center gap-3">
                 <span className="text-red-600">📞</span>
-                <span>+1 (555) VELOCE-MOD</span>
+                <span>+91 8627868153</span>
               </li>
               <li className="flex items-center gap-3">
                 <span className="text-red-600">✉️</span>
-                <span>service@velocemods.com</span>
+                <span>service@sca.com</span>
               </li>
             </ul>
           </div>
