@@ -33,7 +33,7 @@ const Navbar = () => {
       <div className="container mx-auto px-6 flex justify-between items-center">
         <Link to="/" className="text-2xl font-bold flex items-center gap-2 group">
           <span className="text-red-600 transition-transform group-hover:scale-125">⚡</span>
-          <span className="tracking-tighter oswald">VELOCE<span className="text-red-600">MODS</span></span>
+          <span className="tracking-tighter oswald">SC<span className="text-red-600">A</span></span>
         </Link>
 
         {/* Desktop Nav */}

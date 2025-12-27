@@ -5,54 +5,54 @@ export const ACCESSORIES = [
     name: 'Car Wheel Cap',
     category: 'Exterior',
     price: 499,
-    rating: 4.8,
-    image: 'https://images.jdmagicbox.com/v2/comp/def_content/ncat_id/car-wheel-cap-dl7gpn1-250.jpg',
-    description: 'Ultra-lightweight genuine carbon fiber rear spoiler for improved aerodynamics and aggressive look.'
+    rating: 4.6,
+    image: 'https://m.media-amazon.com/images/I/81ZNrsPz3aL.jpg',
+    description: 'Stylish and durable wheel caps that enhance the overall look of your car.'
   },
   {
     id: '2',
-    name: 'Brembo Brake Kit',
-    category: 'Performance',
-    price: 1299,
-    rating: 4.9,
-    image: 'https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&q=80&w=800',
-    description: 'High-performance braking system featuring 6-piston calipers and ventilated rotors.'
+    name: 'Steering Wheel Cover',
+    category: 'Interior',
+    price: 699,
+    rating: 4.7,
+    image: 'https://images-cdn.ubuy.co.in/67ed8e3aaf9e39d3530dce57-auto-drive-1piece-car-steering-wheel.jpg',
+    description: 'Premium steering wheel cover for better grip and driving comfort.'
   },
   {
     id: '3',
-    name: 'RGB Interior Glow',
-    category: 'Lighting',
-    price: 89,
+    name: 'Seat Cover',
+    category: 'Interior',
+    price: 2499,
     rating: 4.5,
-    image: 'https://images.unsplash.com/photo-1542281286-9e0a16bb7366?auto=format&fit=crop&q=80&w=800',
-    description: 'Smartphone-controlled ambient lighting for your car cabin with 16 million colors.'
+    image: 'https://5.imimg.com/data5/UR/MF/LP/GLADMIN-15586783/selection-239.png',
+    description: 'Comfortable and stylish seat covers to protect and upgrade your car interior.'
   },
   {
     id: '4',
-    name: 'Alcantara Steering Wheel',
-    category: 'Interior',
-    price: 350,
-    rating: 4.7,
-    image: 'https://images.unsplash.com/photo-1614200179396-2bdb77ebf81b?auto=format&fit=crop&q=80&w=800',
-    description: 'Premium wrap for your steering wheel with red stitching and superior grip.'
+    name: 'Tail Light',
+    category: 'Lighting',
+    price: 1599,
+    rating: 4.4,
+    image: 'https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&q=80&w=800',
+    description: 'High-quality tail lights for better visibility and a modern car look.'
   },
   {
     id: '5',
-    name: 'Performance Intake',
-    category: 'Performance',
-    price: 220,
-    rating: 4.6,
-    image: 'https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&q=80&w=800',
-    description: 'Cold air intake system that boosts horsepower and throttle response.'
+    name: 'GPS System',
+    category: 'Electronics',
+    price: 3499,
+    rating: 4.8,
+    image: 'https://images.unsplash.com/photo-1581092919531-2a6a3f4f6c0f?auto=format&fit=crop&q=80&w=800',
+    description: 'Advanced GPS navigation system with real-time location tracking.'
   },
   {
     id: '6',
-    name: 'Forged Alloy Rims',
-    category: 'Exterior',
-    price: 1800,
-    rating: 5.0,
-    image: 'https://images.unsplash.com/photo-1486496146582-9ffcd0b2b2b7?auto=format&fit=crop&q=80&w=800',
-    description: 'Custom 20-inch matte black forged wheels for extreme durability and style.'
+    name: 'Spark Plug',
+    category: 'Engine',
+    price: 399,
+    rating: 4.6,
+    image: 'https://images.unsplash.com/photo-1609873962589-1f22f01f8b21?auto=format&fit=crop&q=80&w=800',
+    description: 'High-performance spark plug for smooth engine start and better mileage.'
   }
 ];
 
@@ -61,7 +61,7 @@ export const SERVICES = [
     id: 's1',
     title: 'Professional Vinyl Wrap',
     description: 'Transform your vehicle\'s appearance with our high-quality vinyl wraps. Choose from matte, gloss, satin, or chrome finishes.',
-    image: 'https://images.unsplash.com/photo-1619767886558-efdc259cde1a?auto=format&fit=crop&q=80&w=800',
+    image: 'https://www.shutterstock.com/image-photo/car-wrap-application-changes-vehicle-600nw-2662422029.jpg',
     beforeImg: 'https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&q=80&w=800',
     afterImg: 'https://images.unsplash.com/photo-1544636331-e26879cd4d9b?auto=format&fit=crop&q=80&w=800'
   },
@@ -69,7 +69,7 @@ export const SERVICES = [
     id: 's2',
     title: 'Custom Exhaust Tuning',
     description: 'Enhance your car\'s sound and performance with our custom-built stainless steel exhaust systems.',
-    image: 'https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&q=80&w=800',
+    image: 'https://www.shutterstock.com/image-photo/minas-gerais-brazil-02-09-600nw-2674521389.jpg',
     beforeImg: 'https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&q=80&w=800',
     afterImg: 'https://images.unsplash.com/photo-1583121274602-3e2820c69888?auto=format&fit=crop&q=80&w=800'
   },
@@ -77,7 +77,7 @@ export const SERVICES = [
     id: 's3',
     title: 'Starlight Headliner',
     description: 'Rolls Royce style starlight headliner for a luxurious interior atmosphere using fiber optics.',
-    image: 'https://images.unsplash.com/photo-1580273916550-e323be2ae537?auto=format&fit=crop&q=80&w=800',
+    image: 'https://astrowrapz.com/wp-content/uploads/2024/11/13-2.png',
     beforeImg: 'https://images.unsplash.com/photo-1553260162-71811aff5025?auto=format&fit=crop&q=80&w=800',
     afterImg: 'https://images.unsplash.com/photo-1590362891991-f776e747a588?auto=format&fit=crop&q=80&w=800'
   }
