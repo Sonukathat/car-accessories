@@ -73,7 +73,7 @@ const Accessories = () => {
                 </div>
                 <h4 className="text-xl font-bold oswald mb-4">{item.name}</h4>
                 <div className="flex justify-between items-center">
-                  <span className="text-2xl font-bold text-white">${item.price}</span>
+                  <span className="text-2xl font-bold text-white">₹{item.price}</span>
                   <button className="text-red-600 hover:text-white transition-colors text-xs font-bold uppercase">View Specs &rarr;</button>
                 </div>
               </div>
@@ -117,16 +117,16 @@ const Accessories = () => {
                   <div className="flex items-center justify-between mb-8 border-y border-white/5 py-6">
                     <div>
                       <span className="text-gray-500 block text-xs uppercase mb-1">Price Tag</span>
-                      <span className="text-3xl font-bold text-white">${selectedItem.price}</span>
+                      <span className="text-3xl font-bold text-white">₹{selectedItem.price}</span>
                     </div>
                     <div>
                       <span className="text-gray-500 block text-xs uppercase mb-1">Availability</span>
                       <span className="text-green-500 font-bold uppercase text-xs">In Stock</span>
                     </div>
                   </div>
-                  <button className="bg-red-600 hover:bg-red-700 text-white w-full py-4 rounded-xl font-bold uppercase tracking-widest transition-colors mb-4">
+                  {/* <button className="bg-red-600 hover:bg-red-700 text-white w-full py-4 rounded-xl font-bold uppercase tracking-widest transition-colors mb-4 disabled:opacity-50 disabled:cursor-not-allowed">
                     Order via WhatsApp
-                  </button>
+                  </button> */}
                   <p className="text-center text-gray-500 text-[10px] uppercase">Shipping worldwide & professional installation available</p>
                 </div>
               </div>
