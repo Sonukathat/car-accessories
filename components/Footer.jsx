@@ -37,10 +37,11 @@ const Footer = () => {
           <div>
             <h4 className="text-lg font-bold uppercase mb-6 oswald">Categories</h4>
             <ul className="space-y-4 text-gray-400">
-              <li className="hover:text-red-600 cursor-pointer">Interior Styling</li>
-              <li className="hover:text-red-600 cursor-pointer">Performance Parts</li>
-              <li className="hover:text-red-600 cursor-pointer">Wheel & Tires</li>
-              <li className="hover:text-red-600 cursor-pointer">Body Kits</li>
+              <li><Link to="/accessories" className="hover:text-red-600 cursor-pointer">Interior Styling</Link></li>
+              <li><Link to="/accessories" className="hover:text-red-600 cursor-pointer">Performance Parts</Link></li>
+              <li><Link to="/accessories" className="hover:text-red-600 cursor-pointer">Wheel & Tires</Link></li>
+              <li><Link to="/accessories" className="hover:text-red-600 cursor-pointer">Body Kits</Link></li>
+
             </ul>
           </div>
 
@@ -62,7 +63,7 @@ const Footer = () => {
             </ul>
           </div>
         </div>
-        
+
         <div className="border-t border-gray-900 pt-8 text-center text-gray-500 text-sm">
           &copy; {new Date().getFullYear()} Veloce Mods. All Rights Reserved. Built for speed.
         </div>
