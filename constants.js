@@ -62,35 +62,36 @@ export const SERVICES = [
     title: 'Professional Vinyl Wrap',
     description: 'Transform your vehicle\'s appearance with our high-quality vinyl wraps. Choose from matte, gloss, satin, or chrome finishes.',
     image: 'https://www.shutterstock.com/image-photo/car-wrap-application-changes-vehicle-600nw-2662422029.jpg',
-    beforeImg: 'https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&q=80&w=800',
-    afterImg: 'https://images.unsplash.com/photo-1544636331-e26879cd4d9b?auto=format&fit=crop&q=80&w=800'
+    beforeImg: 'https://images.pexels.com/photos/794435/pexels-photo-794435.jpeg?cs=srgb&dl=pexels-mikebirdy-794435.jpg&fm=jpg',
+    afterImg: 'https://cdn.shopify.com/s/files/1/0565/1441/2659/files/BMW_120_wrapped_in_Iridescent_White_Laser_vinyl_wrap_480x480.jpg?v=1714033964'
   },
   {
     id: 's2',
     title: 'Custom Exhaust Tuning',
     description: 'Enhance your car\'s sound and performance with our custom-built stainless steel exhaust systems.',
     image: 'https://www.shutterstock.com/image-photo/minas-gerais-brazil-02-09-600nw-2674521389.jpg',
-    beforeImg: 'https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&q=80&w=800',
-    afterImg: 'https://images.unsplash.com/photo-1583121274602-3e2820c69888?auto=format&fit=crop&q=80&w=800'
+    beforeImg: 'https://www.autodeal.com.ph/custom/blog-post/header/aftermarket-exhaust-system-608a7f52626b7.jpg',
+    afterImg: 'https://westechperformance.com/wp-content/uploads/2022/05/Custom-Performance-Exhaust-System-Basic-Facts-and-Ways-to-Improve-Your-Cars-Performance-by-Westech-Performance-Group.jpg'
   },
   {
     id: 's3',
     title: 'Starlight Headliner',
     description: 'Rolls Royce style starlight headliner for a luxurious interior atmosphere using fiber optics.',
     image: 'https://astrowrapz.com/wp-content/uploads/2024/11/13-2.png',
-    beforeImg: 'https://images.unsplash.com/photo-1553260162-71811aff5025?auto=format&fit=crop&q=80&w=800',
-    afterImg: 'https://images.unsplash.com/photo-1590362891991-f776e747a588?auto=format&fit=crop&q=80&w=800'
+    beforeImg: 'https://11motors.com/wp-content/uploads/2025/10/Auto-Upholstery-Services-Kolkata-1.webp',
+    afterImg: 'https://preview.redd.it/i-added-a-custom-starlight-headliner-to-my-xterra-best-mod-v0-3nv1859h6e7a1.jpg?width=640&crop=smart&auto=webp&s=5f165d7676f3561d4c60c2af5d3ba81f8ec7d0ad'
   }
 ];
 
 export const GALLERY = [
-  { id: 'g1', title: 'Cyberpunk GTR', category: 'Showcase', image: 'https://images.unsplash.com/photo-1580273916550-e323be2ae537?auto=format&fit=crop&q=80&w=800' },
-  { id: 'g2', title: 'Widebody Porsche', category: 'Bodykit', image: 'https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&q=80&w=800' },
-  { id: 'g3', title: 'Neon Night Rider', category: 'Lighting', image: 'https://images.unsplash.com/photo-1544636331-e26879cd4d9b?auto=format&fit=crop&q=80&w=800' },
-  { id: 'g4', title: 'Carbon Supra', category: 'Carbon', image: 'https://images.unsplash.com/photo-1614200179396-2bdb77ebf81b?auto=format&fit=crop&q=80&w=800' },
-  { id: 'g5', title: 'Classic Reborn', category: 'Interior', image: 'https://images.unsplash.com/photo-1619767886558-efdc259cde1a?auto=format&fit=crop&q=80&w=800' },
-  { id: 'g6', title: 'Desert Drifter', category: 'Suspension', image: 'https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&q=80&w=800' },
+  { id: 'g1', title: 'Land Rover Defender', category: 'SUV', image: 'https://www.hdcarwallpapers.com/walls/land_rover_defender_110_v8_bond_edition_2021_5k-HD.jpg' },
+  { id: 'g2', title: 'Maruti Swift Modified', category: 'Hatchback', image: 'https://www.rushlane.com/wp-content/uploads/2019/12/maruti-swift-modified-official-new-launch-61-1200x900.jpg' },
+  { id: 'g3', title: 'Toyota Fortuner', category: 'SUV', image: 'https://imgd.aeplcdn.com/664x374/n/cw/ec/137767/fortuner-legender-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80' },
+  { id: 'g4', title: 'Mahindra Thar', category: 'Offroad', image: 'https://wallpapers.com/images/hd/thar-4k-jeep-light-2q9b323y07lvm73c.jpg' },
+  { id: 'g5', title: 'Hyundai Verna', category: 'Sedan', image: 'https://gaadiwaadi.com/wp-content/uploads/2020/12/Hyundai-Verna-modified-scissor-doors-3.jpg' },
+  { id: 'g6', title: 'Kia Seltos', category: 'Compact SUV', image: 'https://i.ytimg.com/vi/01Sph1YePcI/maxresdefault.jpg' },
 ];
+
 
 export const TESTIMONIALS = [
   {
