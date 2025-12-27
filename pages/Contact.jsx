@@ -28,21 +28,21 @@ const Contact = () => {
                   <span className="text-red-600 text-2xl">📍</span>
                   <div>
                     <h4 className="font-bold uppercase tracking-widest text-xs text-red-600 mb-1">Main Workshop</h4>
-                    <p className="text-gray-300">123 Turbo Avenue, Drift District<br />Nitro City, 90210</p>
+                    <p className="text-gray-300">Fatehpur(Dharamshala), Kangra District<br />Himachal Pradesh</p>
                   </div>
                 </div>
                 <div className="flex gap-4">
                   <span className="text-red-600 text-2xl">📞</span>
                   <div>
                     <h4 className="font-bold uppercase tracking-widest text-xs text-red-600 mb-1">Call Us</h4>
-                    <p className="text-gray-300">+1 (555) 012-3456</p>
+                    <p className="text-gray-300">+91 8627868153</p>
                   </div>
                 </div>
                 <div className="flex gap-4">
                   <span className="text-red-600 text-2xl">✉️</span>
                   <div>
                     <h4 className="font-bold uppercase tracking-widest text-xs text-red-600 mb-1">Email</h4>
-                    <p className="text-gray-300">service@velocemods.com</p>
+                    <p className="text-gray-300">service@sca.com</p>
                   </div>
                 </div>
                 <div className="flex gap-4">
