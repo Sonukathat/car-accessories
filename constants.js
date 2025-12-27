@@ -110,10 +110,10 @@ export const TESTIMONIALS = [
 ];
 
 export const BRANDS = [
-  { name: 'BMW', logo: 'https://cdn.iconscout.com/icon/free/png-256/free-bmw-6-202244.png' },
-  { name: 'Audi', logo: 'https://cdn.iconscout.com/icon/free/png-256/free-audi-logo-3610118-3012803.png' },
-  { name: 'Mercedes', logo: 'https://cdn.iconscout.com/icon/free/png-256/free-mercedes-benz-4-202357.png' },
-  { name: 'Porsche', logo: 'https://cdn.iconscout.com/icon/free/png-256/free-porsche-12-761704.png' },
-  { name: 'Ferrari', logo: 'https://cdn.iconscout.com/icon/free/png-256/free-ferrari-2-202287.png' },
-  { name: 'Lamborghini', logo: 'https://cdn.iconscout.com/icon/free/png-256/free-lamborghini-1-202324.png' },
+  { name: 'BMW', logo: 'https://wallpapers.com/images/hd/bmw-logo-pictures-1vpyk0cc3rcxcuyk.jpg' },
+  { name: 'AUDI', logo: 'https://images2.alphacoders.com/771/thumb-1920-771191.jpg' },
+  { name: 'TOYOTA', logo: 'https://i.pinimg.com/736x/ba/1d/ea/ba1dea815dc4003fdc9ff954cb02c87e.jpg' },
+  { name: 'HONDA', logo: 'https://wallpapercat.com/w/full/2/9/a/2110199-1920x1200-desktop-hd-honda-logo-background-photo.jpg' },
+  { name: 'LAND ROVER', logo: 'https://static.vecteezy.com/system/resources/previews/020/502/888/non_2x/land-rover-brand-logo-car-symbol-white-design-british-automobile-illustration-with-black-background-free-vector.jpg' },
+  { name: 'SHIFT', logo: 'https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/95/4c/9f954ccf-51ea-e01a-c886-62294bb47e96/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.png' },
 ];
